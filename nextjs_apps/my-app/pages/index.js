@@ -11,6 +11,7 @@ export default function Home() {
     <Head>
       <title>Home</title>
       <meta name='descripton' content="Home page"/>
+      <meta name='author' content='Rıfat'/>
     </Head>
      Home
     </>
